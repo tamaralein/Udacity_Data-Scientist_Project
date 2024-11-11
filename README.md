@@ -34,7 +34,7 @@ Markdown cells were used to assist in walking through the thought process for in
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available here: XXX
+The main findings of the code can be found at the post available here: (https://medium.com/@leingaertner/travelling-on-a-budget-how-to-save-money-when-booking-an-airbnb-in-seattle-bd6e5e7b8572)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
