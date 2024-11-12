@@ -24,7 +24,7 @@ For this project, I analyzed a dataset from Kaggle with Seattle Airbnb data. I l
 I uploaded one Jupyter Notebook where I analyzed the questions listed above. It is structured as follows:
 
 - Business Understanding
-- Data Understanding (Data from: https://www.kaggle.com/datasets/airbnb/seattle/data) and Taking a First Look
+- Data Understanding (Data from: https://www.kaggle.com/datasets/airbnb/seattle/data)
 - Data preparation
 - Evaluation of results
 - Summary
