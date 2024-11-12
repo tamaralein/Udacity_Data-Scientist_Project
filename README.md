@@ -23,12 +23,11 @@ For this project, I analyzed a dataset from Kaggle with Seattle Airbnb data. I l
 
 I uploaded one Jupyter Notebook where I analyzed the questions listed above. It is structured as follows:
 
-- Importing Packages (Standard packages like matplotlib, numpy etc.) 
-- Loading The Dataset (from: https://www.kaggle.com/datasets/airbnb/seattle/data) and Taking a First Look
-- Deriving three interesting questions about the dataset
-- Cleaning and Preparing the data (Creating three adjusted dataframes for every question)
-- Analyzing the data and answering the questions
-- Conclusion
+- Business Understanding
+- Data Understanding (Data from: https://www.kaggle.com/datasets/airbnb/seattle/data) and Taking a First Look
+- Data preparation
+- Evaluation of results
+- Summary
 
 Markdown cells were used to assist in walking through the thought process for individual steps.
 
